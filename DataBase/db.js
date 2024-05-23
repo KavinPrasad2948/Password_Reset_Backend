@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
-const Password = '2HkkLArhqbP4RqoR'
-const dbURL =`mongodb+srv://kavinprasad2948:${Password}@hallbooking.lokd4tl.mongodb.net/`
+const Password = '1U0wxh7Qy2LDWbwg'
+const dbURL =`mongodb+srv://kumarpillaibh:${Password}@kavinprasad.cjkbfqc.mongodb.net/`
 
 const connectDB = async () => {
   try {
